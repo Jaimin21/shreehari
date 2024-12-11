@@ -1,0 +1,76 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Mitr", sans-serif;
+    color: #4D312C;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: normal;
+}
+.section-padding {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.section-tittle h2 {
+    font-family: "Mitr", sans-serif;
+    color: #4D312C;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 44px;
+    display: block;
+    font-weight: 900;
+    line-height: 1.4;
+    margin-bottom: 22px;
+}
+.section-tittle p {
+    font-family: "Raleway", sans-serif;;
+    color: #94817E;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+.our-services .single-services {
+    padding: 47px 46px 36px 46px;
+    background-color: #fff;
+    border: 1px solid #E6DAD8;
+    border-radius: 10px;
+    -webkit-transition: all .4s ease-out 0s;
+    -moz-transition: all .4s ease-out 0s;
+    -ms-transition: all .4s ease-out 0s;
+    -o-transition: all .4s ease-out 0s;
+    transition: all .4s ease-out 0s;
+}
+.our-services .single-services .services-icon img {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.our-services .single-services .services-cap {
+    padding: 0 16px;
+}
+.our-services .single-services .services-cap h5 a {
+    font-weight: 500;
+    font-size: 26px;
+    color: #4D312C;
+    line-height: 1.4;
+    margin-bottom: 20px;
+    display: block;
+    
+}
+.our-services .single-services .services-cap p {
+    font-family: "Raleway", sans-serif;
+    color: #94817E;
+    font-size: 16px;
+    /* line-height: 30px; */
+    margin-bottom: 15px;
+    font-weight: normal;
+    line-height: 1.4;
+}
+
+.section-img-bg2 {
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.footer-wrapper{
+    padding-top: 120px;
+    
+}
